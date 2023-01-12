@@ -7,3 +7,6 @@ This data science project aims to create a real estate price prediction website.
  -Build a Python Flask server that uses the storage model to handle HTTP requests.
  
  -Create a website using HTML, CSS, and Javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.
+ 
+#  Démo du projet
+https://drive.google.com/file/d/1AQsGfYSkBbvis-bhphjwH34xR84hjd_i/view?usp=share_link
